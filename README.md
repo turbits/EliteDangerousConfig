@@ -1,6 +1,6 @@
 # elite dangerous configuration and helpers
 
-### saitek x56 rhino joystick/throttle
+## saitek x56 rhino joystick/throttle
 
 install Logitech X56 software first:
 - [Logitech Support](https://support.logi.com/hc/en-us/articles/360025130494-X56-Space-Flight-H-O-T-A-S-Software)
