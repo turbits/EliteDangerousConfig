@@ -11,7 +11,7 @@ copy binds file to `%LOCALAPPDATA%\Frontier Developments\Elite Dangerous\Options
 [!WARNING]
 >if you are getting odd behaviour or the binds dont work, check to make sure the game version hasn't changed. the binds file itself has the major/minor versions of the game hardcoded in a XML tag at the top of the file. that, or you haven't installed the Logi x56 software.
 
-#### x56 helper script
+### x56 helper script
 
 script: `EliteDangerous_X56_Launcher.ps1`
 flags:
