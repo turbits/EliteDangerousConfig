@@ -1,4 +1,4 @@
-elite dangerous configuration and helpers
+# elite dangerous configuration and helpers
 
 ### saitek x56 rhino joystick/throttle
 
